@@ -1,0 +1,23 @@
+{
+  "name": "try-immutable",
+  "version": "1.0.0",
+  "description": "Try out features of immutable.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlwl2/try-immutable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlwl2/try-immutable/issues"
+  },
+  "homepage": "https://github.com/wlwl2/try-immutable#readme",
+  "dependencies": {
+    "immutable": "^3.8.2"
+  }
+}
