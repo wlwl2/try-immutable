@@ -1,2 +1,2 @@
 # try-immutable
-Practicing the features of immutable.js
+Try out features of immutable.js
